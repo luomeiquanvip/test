@@ -5,6 +5,6 @@ luomeiquan third test
 
 creating a new branch 
 
-hello world
+hello world git
 
 Creating a new branch is quick & simple.
